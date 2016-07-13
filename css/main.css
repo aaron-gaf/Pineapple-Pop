@@ -1,0 +1,11 @@
+html, body {
+    background-image: url("images/pineapple.png");
+    background-repeat: repeat;
+}
+h1 {
+    text-align: center;
+}
+#content {
+    text-align: center;
+    font-size: 1.8em;
+}
